@@ -1,0 +1,139 @@
+
+.h_left {
+  font-family: arial, sans-serif; 
+  font-size: 13px;
+  color: #000;
+  
+}
+
+.h_right {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #000;
+    margin-right: 30px;
+    float: right;
+    white-space: nowrap;
+    text-decoration: none;
+    
+    
+}
+
+#apps {
+    vertical-align: middle;
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+}
+
+
+
+
+.signbtn  {
+    text-align: center;
+    color: white; 
+    border: 1px solid #4285f4;
+    font-size: 13px;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    outline: none;
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    width: 69.43px;
+    height: 30px;
+    border-radius: 2px;
+}
+
+ .appicon  {
+  padding-top: 8px;
+  opacity: 0.60;
+  
+ }
+    
+
+
+
+
+.logo  {
+  width: 100%;
+  text-align: center;
+  padding-top: 154px;
+  padding-bottom: 22px;
+
+}
+
+.topnav  {
+    background-color: transparent;
+    color: rgba (0.0.0,.87);
+    word-wrap: break-word;
+    display: center;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -7px; 
+    width: 100%;
+    text-align: center;
+}
+
+#voice {
+    transform: translate(-5px, -1px);
+    height: 24px;
+    margin-left: -40px;
+    margin-top: -10px;
+    margin-bottom: -6px;
+    width: 24px;
+    
+}
+.buttons {
+border-radius: 2px;
+color: #757575;
+font-family: arial, sans-serif;
+font-size: 13px;
+font-weight: bold;
+margin: 11px 4px;
+min-width: 54px;
+padding:  28px; 
+text-align: center;
+margin-right: -3px;
+}
+
+.buttons :hover  {
+    border: 1px solid lightgrey;}
+
+.location  {
+  font-size: 15px;
+  font-family: arial, sans-serif;
+  margin-left: 30px;
+  text-align: left;
+  background: #f2f2f2;
+  
+ 
+}
+
+.EcHmzhRvfYe {
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;    
+    width: 99.2%;
+    visibility: visible;
+    color: grey;
+}
+
+.Fx4vi  {
+color: grey;
+display: inline;
+font-family: arial, sans-serif;
+font-size: 13px;
+height: auto;
+line-height: 40px;
+margin-left: 30px;
+visibility: visible;
+width: auto;
+white-space: nowrap;
+text-decoration: none;
+
+}
+
+.priterset  {
+    margin-right: 30px;
+    float: right;
+    white-space: nowrap;
+    text-decoration: none;
+}
